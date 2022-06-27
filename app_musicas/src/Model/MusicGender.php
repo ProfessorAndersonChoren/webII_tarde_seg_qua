@@ -1,4 +1,5 @@
 <?php
+namespace APP\Model;
 enum MusicGender{
     case ROCK;
     case COUNTRY;
