@@ -13,7 +13,7 @@
     <header class="bg-blue-400">
         <ul class="flex">
             <li class="mx-3">
-                <a href="../index.html">Home</a>
+                <a href="../../index.html">Home</a>
             </li>
             <li>
                 <a href="#">Novo produto</a>
@@ -21,7 +21,7 @@
         </ul>
     </header>
     <main class="mt-4 ml-4">
-        <form action="../controller/Product.php" method="POST">
+        <form action="../Controller/Product.php" method="POST">
             <section class="columns-3">
                 <article>
                     <label for="name">Digite o nome do produto: </label>
